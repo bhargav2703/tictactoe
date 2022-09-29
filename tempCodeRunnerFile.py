@@ -1,0 +1,1 @@
+justify=CENTER,bg = "black",fg= "red",font = ("Arial",18),border=2

@@ -1,0 +1,6400 @@
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.011499599999999943
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,2 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+[[0, 0, 0], [0, 0, 1], [1, 1, 1]]
+[[1, 1, 1], [2, 2, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010203299999999915
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,3 box
+[[0, 0, 1], [1, 1, 1], [0, 1, 1]]
+[[1, 2, 0], [0, 0, 0], [1, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010840400000000083
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  9
+player num when clicknum is  9 is 1
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  11
+player num when clicknum is  11 is 1
+clicked 1,2 box
+[[0, 1, 1], [0, 1, 1], [1, 1, 1]]
+[[1, 0, 0], [1, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.00968520000000006
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  9
+player num when clicknum is  9 is 1
+clicked 1,2 box
+L5
+L6
+L7
+L8
+row =  2 columb =  1
+clicknumber inside the avail condition  -  11
+player num when clicknum is  11 is 1
+clicked 1,2 box
+[[0, 1, 1], [0, 1, 1], [1, 1, 1]]
+[[1, 0, 0], [1, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009585999999999983
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+L2
+L7
+[[0, 0, 0], [0, 0, 1], [1, 1, 1]]
+[[1, 1, 1], [2, 2, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009954700000000094
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+L2
+[[0, 0, 0], [0, 0, 1], [1, 1, 1]]
+[[1, 1, 1], [2, 2, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009544499999999956
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,3 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,3 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 2,1 box
+L2
+[[0, 0, 0], [0, 0, 1], [0, 1, 0]]
+[[1, 1, 1], [2, 1, 0], [2, 0, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010013300000000003
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,1 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 2,3 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 3,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 3,3 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  9
+player num when clicknum is  9 is 1
+clicked 1,3 box
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+[[1, 2, 1], [2, 2, 1], [1, 1, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009365899999999927
+----------------------------------------------------------------------
+row =  1 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 1,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+L4
+[[1, 0, 0], [0, 0, 0], [1, 1, 1]]
+[[0, 2, 2], [1, 1, 1], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010111199999999987
+----------------------------------------------------------------------
+row =  1 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 1,2 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+[[1, 1, 1], [0, 0, 1], [1, 1, 1]]
+[[0, 0, 0], [1, 2, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.012504900000000041
+----------------------------------------------------------------------
+row =  1 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 1,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+L4
+[[1, 0, 0], [0, 0, 0], [1, 1, 1]]
+[[0, 2, 2], [1, 1, 1], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010781599999999947
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,3 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 1,1 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 1,3 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  9
+player num when clicknum is  9 is 1
+clicked 3,3 box
+L1
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+[[1, 1, 2], [2, 1, 1], [2, 2, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010685300000000009
+----------------------------------------------------------------------
+row =  1 columb =  3
+clicknumber inside the avail condition  -  1
+clicked 1,3 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,3 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 3,3 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 1,2 box
+L4
+[[1, 1, 0], [0, 0, 0], [0, 0, 0]]
+[[0, 0, 2], [1, 1, 1], [1, 2, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.01030629999999999
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,1 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,3 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,1 box
+L2
+[[0, 0, 0], [0, 0, 1], [1, 0, 1]]
+[[2, 2, 2], [1, 1, 0], [0, 1, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009633199999999897
+----------------------------------------------------------------------
+row =  1 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 1,2 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,3 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+L4
+[[1, 1, 0], [0, 0, 0], [0, 1, 1]]
+[[0, 0, 2], [1, 1, 1], [2, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.012409899999999974
+----------------------------------------------------------------------
+row =  1 columb =  3
+clicknumber inside the avail condition  -  1
+clicked 1,3 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+L6
+[[1, 1, 0], [0, 0, 0], [0, 1, 1]]
+[[0, 0, 1], [2, 1, 2], [1, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009457700000000013
+----------------------------------------------------------------------
+row =  1 columb =  3
+clicknumber inside the avail condition  -  1
+clicked 1,3 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,3 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 3,2 box
+L4
+[[1, 1, 0], [0, 0, 0], [0, 1, 0]]
+[[0, 0, 1], [2, 2, 2], [1, 0, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009539799999999987
+----------------------------------------------------------------------
+row =  1 columb =  3
+clicknumber inside the avail condition  -  1
+clicked 1,3 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,3 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,3 box
+L7
+[[1, 1, 0], [1, 0, 1], [0, 0, 0]]
+[[0, 0, 2], [0, 2, 0], [1, 1, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.011154699999999962
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,3 box
+L3
+[[0, 1, 0], [0, 0, 1], [0, 1, 1]]
+[[1, 0, 2], [1, 2, 0], [1, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009863000000000066
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,3 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,3 box
+L3
+[[0, 1, 1], [0, 0, 1], [0, 0, 1]]
+[[1, 0, 0], [1, 2, 0], [1, 2, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009147999999999934
+----------------------------------------------------------------------
+row =  3 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 3,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,3 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,3 box
+L8
+[[1, 1, 0], [1, 0, 0], [1, 0, 0]]
+[[0, 0, 1], [0, 2, 1], [0, 2, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.01314559999999998
+----------------------------------------------------------------------
+row =  3 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 3,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,3 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,3 box
+[[1, 1, 0], [1, 0, 0], [1, 0, 0]]
+[[0, 0, 1], [0, 2, 1], [0, 2, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009666900000000034
+----------------------------------------------------------------------
+row =  3 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 3,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,3 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,3 box
+L7
+[[1, 1, 0], [1, 0, 0], [1, 0, 0]]
+[[0, 0, 1], [0, 2, 1], [0, 2, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.01300800000000002
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,3 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,3 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,2 box
+L4
+[[1, 1, 1], [0, 0, 0], [1, 0, 0]]
+[[0, 0, 0], [1, 1, 1], [0, 2, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009157400000000093
+----------------------------------------------------------------------
+row =  3 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 3,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,3 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,3 box
+L7
+[[1, 1, 0], [1, 0, 0], [1, 0, 0]]
+[[0, 0, 1], [0, 2, 1], [0, 2, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.011434500000000014
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,3 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 2,1 box
+L5
+[[0, 0, 1], [0, 0, 1], [1, 0, 1]]
+[[2, 1, 0], [2, 1, 0], [0, 1, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009365599999999974
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,3 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 3,3 box
+L7
+[[1, 1, 0], [0, 0, 0], [1, 0, 0]]
+[[0, 0, 2], [1, 1, 2], [0, 1, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009979900000000042
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,3 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,3 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 3,3 box
+L8
+[[1, 1, 0], [1, 0, 0], [0, 0, 0]]
+[[0, 0, 1], [0, 1, 1], [2, 2, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.00913559999999991
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,3 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,3 box
+L3
+[[0, 1, 1], [0, 0, 1], [0, 0, 1]]
+[[1, 0, 0], [1, 2, 0], [1, 2, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009270900000000082
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+L2
+[[0, 0, 0], [0, 0, 1], [1, 1, 1]]
+[[1, 1, 1], [2, 2, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009129700000000018
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+L2
+[[0, 0, 0], [0, 0, 1], [1, 1, 1]]
+[[1, 1, 1], [2, 2, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010797899999999916
+----------------------------------------------------------------------
+row =  1 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 1,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+L4
+[[0, 1, 0], [0, 0, 0], [1, 1, 1]]
+[[2, 0, 2], [1, 1, 1], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.012516500000000041
+----------------------------------------------------------------------
+row =  1 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 1,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+L4
+[[0, 0, 1], [0, 0, 0], [1, 1, 1]]
+[[2, 2, 0], [1, 1, 1], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009433800000000048
+----------------------------------------------------------------------
+row =  1 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 1,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+L4
+[[0, 0, 1], [0, 0, 0], [1, 1, 1]]
+[[2, 2, 0], [1, 1, 1], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009454999999999991
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+L2
+[[0, 0, 0], [0, 0, 1], [1, 1, 1]]
+[[1, 1, 1], [2, 2, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009937399999999985
+----------------------------------------------------------------------
+row =  1 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 1,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+L4
+[[0, 0, 1], [0, 0, 0], [1, 1, 1]]
+[[2, 2, 0], [1, 1, 1], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.01025520000000002
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,3 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,2 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,3 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 3,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 2,1 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  9
+player num when clicknum is  9 is 1
+clicked 2,3 box
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+[[1, 2, 1], [2, 1, 1], [2, 1, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010016299999999978
+----------------------------------------------------------------------
+row =  2 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,3 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,3 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 3,1 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 3,3 box
+L1
+[[0, 0, 0], [0, 0, 1], [0, 0, 0]]
+[[2, 1, 1], [1, 2, 0], [1, 2, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010109999999999952
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,2 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,3 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 2,1 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 2,3 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 3,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  9
+player num when clicknum is  9 is 1
+clicked 3,3 box
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+[[1, 2, 1], [1, 2, 2], [2, 1, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.011812400000000056
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 2,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 3,3 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 2,3 box
+L5
+[[0, 0, 0], [0, 0, 1], [1, 0, 0]]
+[[1, 1, 2], [2, 1, 0], [0, 1, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009464200000000034
+----------------------------------------------------------------------
+row =  2 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,3 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 1,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 3,3 box
+L1
+[[0, 0, 0], [0, 0, 0], [1, 0, 0]]
+[[2, 1, 1], [1, 2, 2], [0, 1, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009303600000000078
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 2,3 box
+L5
+[[1, 0, 0], [0, 0, 1], [1, 0, 1]]
+[[0, 1, 2], [2, 1, 0], [0, 1, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009203799999999984
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 3,3 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 2,1 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 2,3 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 1,3 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 1,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  9
+player num when clicknum is  9 is 1
+clicked 1,1 box
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+[[1, 1, 2], [2, 1, 1], [1, 2, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010809399999999969
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,3 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 1,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 3,1 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 3,3 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  9
+player num when clicknum is  9 is 1
+clicked 1,3 box
+L6
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+[[2, 1, 1], [1, 1, 2], [1, 2, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.011294999999999944
+----------------------------------------------------------------------
+row =  3 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 3,2 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,2 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,3 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 2,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 3,1 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 3,3 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  9
+player num when clicknum is  9 is 1
+clicked 2,3 box
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+[[1, 2, 1], [1, 2, 1], [2, 1, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009422000000000041
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,3 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 1,2 box
+row =  1 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 1,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 2,1 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 3,3 box
+L1
+[[0, 0, 0], [0, 0, 1], [0, 1, 0]]
+[[1, 2, 2], [2, 1, 0], [1, 0, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.01348819999999995
+----------------------------------------------------------------------
+row =  3 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 3,1 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,3 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,2 box
+[[1, 1, 0], [1, 0, 0], [1, 0, 1]]
+[[0, 0, 1], [0, 1, 2], [0, 2, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.011399500000000007
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 3,2 box
+[[1, 1, 1], [1, 0, 0], [1, 1, 1]]
+[[0, 0, 0], [0, 1, 2], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009849200000000002
+----------------------------------------------------------------------
+row =  0 columb =  0
+clicknumber inside the avail condition  -  1
+[[1, 1, 1], [1, 1, 1], [1, 1, 0]]
+[[0, 0, 0], [0, 0, 0], [0, 0, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009299199999999952
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  0 columb =  0
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+row =  2 columb =  2
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 2,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 2,3 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 1,3 box
+[[0, 0, 1], [1, 0, 0], [0, 0, 0]]
+[[1, 2, 0], [0, 1, 1], [1, 2, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009681199999999945
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+row =  0 columb =  0
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+row =  1 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,2 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+[[1, 0, 0], [0, 0, 1], [1, 1, 0]]
+[[0, 2, 1], [1, 1, 0], [0, 0, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010615900000000011
+----------------------------------------------------------------------
+row =  2 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 2,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  2 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 2,3 box
+row =  0 columb =  0
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+row =  2 columb =  2
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 2,2 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 1,2 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  8
+player num when clicknum is  8 is 2
+clicked 1,3 box
+L6
+[[1, 0, 0], [0, 0, 0], [0, 0, 0]]
+[[0, 1, 2], [1, 2, 1], [2, 2, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009315999999999991
+----------------------------------------------------------------------
+row =  2 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 2,1 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,1 box
+[[1, 0, 0], [1, 1, 1], [1, 1, 1]]
+[[0, 1, 2], [0, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.00955269999999997
+----------------------------------------------------------------------
+row =  2 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 2,2 box
+[[1, 1, 1], [1, 0, 1], [1, 1, 1]]
+[[0, 0, 0], [0, 1, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009448500000000082
+----------------------------------------------------------------------
+row =  0 columb =  0
+clicknumber inside the avail condition  -  1
+row =  2 columb =  3
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,3 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 1,3 box
+[[1, 1, 1], [1, 1, 1], [0, 0, 0]]
+[[0, 0, 0], [0, 0, 0], [1, 2, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010413800000000029
+----------------------------------------------------------------------
+row =  2 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 2,1 box
+[[1, 0, 1], [1, 1, 1], [1, 1, 1]]
+[[0, 1, 0], [0, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.011371700000000096
+----------------------------------------------------------------------
+row =  2 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 3,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,3 box
+[[1, 0, 1], [1, 0, 0], [1, 1, 0]]
+[[0, 1, 0], [0, 2, 1], [0, 0, 2]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009376999999999969
+----------------------------------------------------------------------
+row =  3 columb =  2
+clicknumber inside the avail condition  -  1
+clicked 3,2 box
+[[1, 1, 1], [1, 1, 0], [1, 1, 1]]
+[[0, 0, 0], [0, 0, 1], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010858699999999999
+----------------------------------------------------------------------
+row =  2 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 2,1 box
+[[1, 0, 1], [1, 1, 1], [1, 1, 1]]
+[[0, 1, 0], [0, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010090700000000008
+----------------------------------------------------------------------
+[[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009154099999999943
+----------------------------------------------------------------------
+[[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010125900000000021
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+[[0, 1, 1], [1, 1, 1], [1, 1, 1]]
+[[1, 0, 0], [0, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.00934630000000003
+----------------------------------------------------------------------
+[[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.010541200000000028
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,3 box
+L1
+[[0, 0, 1], [1, 0, 0], [1, 1, 0]]
+[[1, 2, 0], [0, 1, 2], [0, 0, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.00943510000000003
+----------------------------------------------------------------------
+[[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009399500000000005
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 2,1 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  2
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,3 box
+L1
+[[0, 0, 1], [1, 0, 0], [1, 1, 0]]
+[[1, 2, 0], [0, 1, 2], [0, 0, 1]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.0106155
+----------------------------------------------------------------------
+[[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+gameboard initial availability : [[1, 1, 1], [1, 1, 1], [1, 1, 1]]
+ 0.009231700000000398
+----------------------------------------------------------------------
+row =  1 columb =  1
+clicknumber inside the avail condition  -  1
+clicked 1,1 box
+row =  1 columb =  2
+clicknumber inside the avail condition  -  2
+player num when clicknum is  2 is 2
+clicked 1,2 box
+row =  2 columb =  2
+clicknumber inside the avail condition  -  3
+player num when clicknum is  3 is 1
+clicked 2,2 box
+row =  3 columb =  3
+clicknumber inside the avail condition  -  4
+player num when clicknum is  4 is 2
+clicked 3,3 box
+row =  3 columb =  1
+clicknumber inside the avail condition  -  5
+player num when clicknum is  5 is 1
+clicked 3,1 box
+row =  2 columb =  1
+clicknumber inside the avail condition  -  6
+player num when clicknum is  6 is 2
+clicked 2,1 box
+row =  1 columb =  3
+clicknumber inside the avail condition  -  7
+player num when clicknum is  7 is 1
+clicked 1,3 box
+L6
+[[0, 0, 0], [0, 0, 1], [0, 1, 0]]
+[[1, 2, 1], [2, 1, 0], [1, 0, 2]]
